@@ -1,0 +1,7 @@
+*.ico
+*.png
+*.txt
+*.svg
+package-lock.json
+.gitignore
+.prettierignore
